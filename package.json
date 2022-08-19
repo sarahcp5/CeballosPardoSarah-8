@@ -1,0 +1,30 @@
+{
+  "name": "ceballospardosarah-8",
+  "version": "1.0.0",
+  "description": "NUESTRA PRIMERA BASE DE DATOS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahcp5/CeballosPardoSarah-8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahcp5/CeballosPardoSarah-8/issues"
+  },
+  "homepage": "https://github.com/sarahcp5/CeballosPardoSarah-8#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.2",
+    "knex": "^2.2.0",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.4.0",
+    "sqlite3": "^5.0.11"
+  }
+}
